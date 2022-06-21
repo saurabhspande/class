@@ -34,7 +34,6 @@ A web application for teacher and students to engage virtually.
   <ol>
     <li>JWT_SECRET</li>
     <li>MONGO_URI</li>
-  </ol>
 - In the client directory, build the React application.
   ```
   npm build
